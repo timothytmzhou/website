@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from UIUC with Highest Honors in CS and High Distinction in Math.
+I graduated from UIUC.
