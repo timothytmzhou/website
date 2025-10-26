@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from UIUC.
+I graduated from UIUC with degrees in Computer Science (Highest Honors) and Mathematics.

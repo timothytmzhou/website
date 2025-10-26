@@ -747,6 +747,15 @@ footer.sticky-bottom {
             border-bottom: 1px dashed var(--global-text-color);
           }
         }
+
+        sup {
+          font-weight: bold;
+          color: var(--global-theme-color);
+          font-size: 0.85em;
+          vertical-align: baseline;
+          position: relative;
+          top: -0.3em;
+        }
       }
 
       .links {

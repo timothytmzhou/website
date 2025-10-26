@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello! I'm a second-year PhD student at UCSD in the [Programming Systems](https://cseweb.ucsd.edu/groups/progsys/) group, working with [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/) and [Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/).
-My research is in programming languages: I'm interested in improving the way people write and reason about the correctness of their code.
-I work at the intersection of program synthesis (and AI-assisted programming) and formal methods.
+My research is about improving the way people write and reason about the correctness of their code.
+I work at the intersection of program synthesis, AI-assisted programming, and formal methods.
 
 
 I did my undergrad at UIUC, where I graduated with degrees in CS and Math in 2024.
