@@ -1,0 +1,25 @@
+<div class="publications">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% for entry in site.data.bib %}
+        {% if entry.selected %}
+          <tr>
+            <th scope="row" style="width: 20%">
+              {%- if entry.journal -%}
+                {{ entry.journal }}
+              {%- elsif entry.booktitle -%}
+                {{ entry.booktitle }}
+              {%- else -%}
+                {{ entry.year }}
+              {%- endif -%}
+            </th>
+            <td>
+              <div class="title">{{ entry.title }}</div>
+              <div class="author">{{ entry.author }}</div>
+            </td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </table>
+  </div>
+</div>
