@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This summer I am an Applied Scientist intern in the Automated Reasoning Group at AWS.
+This summer I am an Applied Scientist Intern in the Automated Reasoning Group at AWS.
